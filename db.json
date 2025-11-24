@@ -1,0 +1,104 @@
+{
+  "livros": [
+    {
+      "id": "1",
+      "titulo": "Clean Code",
+      "autor": "Robert C. Martin",
+      "preco": 89.9,
+      "estoque": 13,
+      "categoria": "Programação"
+    },
+    {
+      "id": "2",
+      "titulo": "O Senhor dos Anéis",
+      "autor": "J.R.R. Tolkien",
+      "preco": 120,
+      "estoque": 8,
+      "categoria": "Ficção"
+    },
+    {
+      "id": "3",
+      "titulo": "Python Fluente",
+      "autor": "Luciano Ramalho",
+      "preco": 95,
+      "estoque": 12,
+      "categoria": "Programação"
+    },
+    {
+      "id": "5",
+      "titulo": "Sapiens",
+      "autor": "Yuval Noah Harari",
+      "preco": 55.9,
+      "estoque": 10,
+      "categoria": "História"
+    },
+    {
+      "id": "7",
+      "titulo": "o chamado",
+      "autor": "otavio vieira",
+      "preco": 50,
+      "estoque": 4,
+      "categoria": "ficção"
+    },
+    {
+      "id": "9",
+      "titulo": "o supervisor",
+      "autor": "guilherme pinheiro",
+      "preco": 30,
+      "estoque": 4,
+      "categoria": "ficção"
+    }
+  ],
+  "vendas": [
+    {
+      "id": "1",
+      "livro_id": 1,
+      "titulo_livro": "Clean Code",
+      "quantidade": 2,
+      "preco_unitario": 89.9,
+      "total": 179.8,
+      "cliente": "João Silva",
+      "data": "2025-11-20 14:30:00"
+    },
+    {
+      "id": "2",
+      "livro_id": 4,
+      "titulo_livro": "1984",
+      "quantidade": 1,
+      "preco_unitario": 45,
+      "total": 45,
+      "cliente": "Maria Santos",
+      "data": "2025-11-21 10:15:00"
+    },
+    {
+      "id": "3",
+      "livro_id": 2,
+      "titulo_livro": "O Senhor dos Anéis",
+      "quantidade": 1,
+      "preco_unitario": 120,
+      "total": 120,
+      "cliente": "Pedro Costa",
+      "data": "2025-11-22 16:45:00"
+    },
+    {
+      "id": "1f5d",
+      "livro_id": 1,
+      "titulo_livro": "Clean Code",
+      "quantidade": 2,
+      "preco_unitario": 89.9,
+      "total": 179.8,
+      "cliente": "gui",
+      "data": "2025-11-24 09:27:59"
+    },
+    {
+      "id": "3d82",
+      "livro_id": 9,
+      "titulo_livro": "o supervisor",
+      "quantidade": 2,
+      "preco_unitario": 30,
+      "total": 60,
+      "cliente": "luiz",
+      "data": "2025-11-24 09:47:43"
+    }
+  ]
+}
